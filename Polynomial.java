@@ -1,4 +1,5 @@
 public class Polynomial{
+    
     double [] coef;
     
     public Polynomial() {
