@@ -1,1 +1,8 @@
 This is for the first lab for CSCB07. Due Sunday September 22, 2024
+
+Lab 2 assumptions that the TA told me to make:
+- To make the polynomial originally, the imput will be 2 arrays of the same length, one with coeficients and other with exponents
+- Coeficients can not be 0
+- Exponents can not repeat
+- x can be written as x1
+- if file doesnt exist, crate one. If it does, overwrite
